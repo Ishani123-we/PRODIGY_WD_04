@@ -1,4 +1,4 @@
-# Personal Website -
+# PORTFOLIO -
 
 Portfolio website built using Html, Css and Javascript
 
