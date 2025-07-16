@@ -2,6 +2,8 @@
   <img width="540" height="360" alt="image" src="https://github.com/user-attachments/assets/d104e0ed-7036-4d47-abae-93312dd8e248" />
 
 </h1>
+
+
 # PORTFOLIO -
 
 Portfolio website built using Html, Css and Javascript
